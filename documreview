@@ -34,5 +34,9 @@ public class DocuReview {
 
 			// Print the string
 			System.out.println(st);
+			
+			
+			System.out.println( " Do you want to add another document?" ) ;
+			
 	}
 }
