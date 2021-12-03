@@ -41,7 +41,7 @@ public class DocuReview {
 			
 			
 			// code to enter your preferred working times
-			
+			/*
 			 Calendar calendar = Calendar.getInstance();
         calendar.set(
            Calendar.DAY_OF_WEEK,
@@ -52,6 +52,6 @@ public class DocuReview {
         calendar.set(Calendar.SECOND, 0);
         calendar.set(Calendar.MILLISECOND, 0);
 
-			
+		*/	
 	}
 }
